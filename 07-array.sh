@@ -1,5 +1,5 @@
 #!/bin/bash
 
-MOVIES=("COURT" "HIT" "SHUBHAM")
+movies=("COURT" "HIT" "SHUBHAM")
 
 echo "First movie : ${MOVIES[0]}"
