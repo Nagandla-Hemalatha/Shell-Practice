@@ -2,6 +2,6 @@
 
 echo "Enter your Password : "
 
-read PASSWORD
+read  -s PASSWORD
 
 echo "Your Password : $PASSWORD "
