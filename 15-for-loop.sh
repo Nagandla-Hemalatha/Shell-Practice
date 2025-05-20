@@ -2,6 +2,6 @@
 
 for i in {1..5}
 do
-    echo $i
+    echo -e "\e[35m $i"
 done
     
