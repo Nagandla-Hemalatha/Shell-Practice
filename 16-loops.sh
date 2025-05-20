@@ -7,7 +7,7 @@ G="\e[32m"
 Y="\e[33m"
 N="\e[0m"
 
-if ( $? -ne 0 )
+if [ $? -ne 0 ]
 then
     echo -e "$R ERROR:Please run with root access $N"
 else
