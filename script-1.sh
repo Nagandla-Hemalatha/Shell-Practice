@@ -7,4 +7,4 @@ echo "$GREETINGS"
 
 #./script-2.sh
 
-source script-2.sh
+source ./script-2.sh
