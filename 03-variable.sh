@@ -9,5 +9,3 @@ echo "$PERSON1: I am fine too. What's up?"
 echo "$PERSON2:: Nohting, just going to Mars now, will you come?"
 echo "$PERSON1:: Sorry, you carry on! I will come once you come back"
 
-echo "all the variable: $@ "
-echo "number of variables: $# "
