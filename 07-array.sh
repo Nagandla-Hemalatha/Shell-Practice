@@ -5,3 +5,6 @@ movies=("COURT" "HIT" "SHUBHAM")
 echo "First movie : ${movies[0]}"
 
 echo "All movies : ${movies[@]}"
+
+echo "All movies : ${movies[#]}"
+
